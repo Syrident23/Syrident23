@@ -27,3 +27,7 @@ const aboutMe = {
 <h2>💻 Some stats 💻</h2>
 
 ![Syrident github stats](https://github-readme-stats.vercel.app/api?username=Syrident23&show_icons=true&theme=codeSTACKr)
+
+</br></br>
+<h2>🔍 Reach Me 🔍<h2/>
+<p> santiagodabbene@gmail.com <p/>
