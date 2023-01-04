@@ -27,9 +27,3 @@ const aboutMe = {
 <h2>💻 Some stats 💻</h2>
 
 ![Syrident github stats](https://github-readme-stats.vercel.app/api?username=Syrident23&show_icons=true&theme=codeSTACKr)
-
-
-
----
-
-⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
