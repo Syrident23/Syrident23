@@ -5,7 +5,7 @@
 </em></p>
 
 
-```
+``` JSON
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS],
